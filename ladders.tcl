@@ -5,7 +5,7 @@
 # AC and BD intersect at E and the point F on AB is such that EF=2m is vertical.
 # What is the distance AB to the nearest mm?
 #
-# Algebraeically is w=AB then w satisfies:
+# Algebraeically if w=AB then w satisfies:
 #
 #          1                1           1
 #    ------------  +  ------------  =   -
